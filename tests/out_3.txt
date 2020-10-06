@@ -1,0 +1,60 @@
+0{
+number: 0
+  1: a
+  10: b
+}
+1{
+number: 1
+  2: a
+  1: b
+}
+2{
+number: 2
+  3: a
+  10: b
+}
+3{
+number: 3
+terminal: yes
+  4: a
+  5: b
+}
+4{
+number: 4
+  3: a
+  6: b
+}
+5{
+number: 5
+  7: a
+  1: b
+}
+6{
+number: 6
+terminal: yes
+  4: a
+  1: b
+}
+7{
+number: 7
+terminal: yes
+  8: a
+  5: b
+}
+8{
+number: 8
+terminal: yes
+  8: a
+  9: b
+}
+9{
+number: 9
+terminal: yes
+  8: a
+  1: b
+}
+10{
+number: 10
+  10: a
+  10: b
+}
